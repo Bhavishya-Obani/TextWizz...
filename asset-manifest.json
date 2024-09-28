@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/TextWizz.../static/css/main.6ac041cb.css",
-    "main.js": "/TextWizz.../static/js/main.66fb0e6d.js",
+    "main.js": "/TextWizz.../static/js/main.27251a9b.js",
     "static/js/453.f1c150e5.chunk.js": "/TextWizz.../static/js/453.f1c150e5.chunk.js",
     "static/media/sapiens.svg": "/TextWizz.../static/media/sapiens.39adc2d8f70af176d42b0bdc07a747be.svg",
     "static/media/sapiens2.svg": "/TextWizz.../static/media/sapiens2.4e33c099d029add2e7629a299d79c367.svg",
     "index.html": "/TextWizz.../index.html",
     "main.6ac041cb.css.map": "/TextWizz.../static/css/main.6ac041cb.css.map",
-    "main.66fb0e6d.js.map": "/TextWizz.../static/js/main.66fb0e6d.js.map",
+    "main.27251a9b.js.map": "/TextWizz.../static/js/main.27251a9b.js.map",
     "453.f1c150e5.chunk.js.map": "/TextWizz.../static/js/453.f1c150e5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ac041cb.css",
-    "static/js/main.66fb0e6d.js"
+    "static/js/main.27251a9b.js"
   ]
 }
