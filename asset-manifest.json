@@ -1,17 +1,23 @@
 {
   "files": {
-    "main.css": "/TextWizz.../static/css/main.6ac041cb.css",
-    "main.js": "/TextWizz.../static/js/main.27251a9b.js",
+    "main.css": "/TextWizz.../static/css/main.1db99184.css",
+    "main.js": "/TextWizz.../static/js/main.d281634d.js",
+    "static/js/239.54d3eb51.chunk.js": "/TextWizz.../static/js/239.54d3eb51.chunk.js",
+    "static/js/213.d6a309a9.chunk.js": "/TextWizz.../static/js/213.d6a309a9.chunk.js",
+    "static/js/732.274f8513.chunk.js": "/TextWizz.../static/js/732.274f8513.chunk.js",
     "static/js/453.f1c150e5.chunk.js": "/TextWizz.../static/js/453.f1c150e5.chunk.js",
     "static/media/sapiens.svg": "/TextWizz.../static/media/sapiens.39adc2d8f70af176d42b0bdc07a747be.svg",
     "static/media/sapiens2.svg": "/TextWizz.../static/media/sapiens2.4e33c099d029add2e7629a299d79c367.svg",
     "index.html": "/TextWizz.../index.html",
-    "main.6ac041cb.css.map": "/TextWizz.../static/css/main.6ac041cb.css.map",
-    "main.27251a9b.js.map": "/TextWizz.../static/js/main.27251a9b.js.map",
+    "main.1db99184.css.map": "/TextWizz.../static/css/main.1db99184.css.map",
+    "main.d281634d.js.map": "/TextWizz.../static/js/main.d281634d.js.map",
+    "239.54d3eb51.chunk.js.map": "/TextWizz.../static/js/239.54d3eb51.chunk.js.map",
+    "213.d6a309a9.chunk.js.map": "/TextWizz.../static/js/213.d6a309a9.chunk.js.map",
+    "732.274f8513.chunk.js.map": "/TextWizz.../static/js/732.274f8513.chunk.js.map",
     "453.f1c150e5.chunk.js.map": "/TextWizz.../static/js/453.f1c150e5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ac041cb.css",
-    "static/js/main.27251a9b.js"
+    "static/css/main.1db99184.css",
+    "static/js/main.d281634d.js"
   ]
 }
